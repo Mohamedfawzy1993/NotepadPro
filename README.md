@@ -25,6 +25,4 @@ Java 8
 
 ## Authors
 
-* Mohamed Fawzy “Team Leader” 
-
-
+* Mohamed Fawzy 
